@@ -1,0 +1,4 @@
+requests
+tqdm
+readability-lxml
+lxml_html_clean
